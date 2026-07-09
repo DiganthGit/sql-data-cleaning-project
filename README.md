@@ -76,7 +76,7 @@ Aspiring Data Analyst
 
 ### 📂 Raw Dataset
 
-![Raw Dataset] (01_row_dataset.png)
+![Raw Dataset](01_row_dataset.png)
 
 ---
 

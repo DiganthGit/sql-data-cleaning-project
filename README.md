@@ -71,3 +71,28 @@ I independently executed all SQL queries in MySQL, understood each data cleaning
 **Diganth Gowda**
 
 Aspiring Data Analyst
+
+## 📸 Project Screenshots
+
+### 📂 Raw Dataset
+
+![Raw Dataset] (01_row_dataset.png)
+
+---
+
+### 💻 SQL Data Cleaning Queries
+
+![SQL Queries - 1](02_sql_queries_1.png)
+
+![SQL Queries - 2](03_sql_queries_2.png)
+
+![SQL Queries - 3](04_sql_queries_3.png)
+
+---
+
+### ✅ Cleaned Dataset
+
+![Cleaned Dataset](05_cleaned_dataset.png)
+
+
+
